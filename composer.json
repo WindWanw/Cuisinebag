@@ -1,5 +1,5 @@
 {
-    "name": "cuisine/bag",
+    "name": "phpcuisine/bag",
     "description": "php程序员扩展包",
     "type": "library",
     "license": "MIT",
