@@ -1,0 +1,17 @@
+{
+    "name": "cuisine/bag",
+    "description": "php程序员扩展包",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cuisine\\Bag\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "w"
+        }
+    ],
+    "require": {}
+}
